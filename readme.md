@@ -11,7 +11,7 @@ Lección SENA `engenn6le07`, publicada con GitHub Pages: https://velamds.github.
 | ob05 | 5797 | [abrir](https://velamds.github.io/Ingles_General_B1_1_07/ob05/) |
 | ob06 | 5798 | [abrir](https://velamds.github.io/Ingles_General_B1_1_07/ob06/) |
 | ob07 | 5799 | [abrir](https://velamds.github.io/Ingles_General_B1_1_07/ob07/) |
-| ob08 | 5800 | [abrir](https://velamds.github.io/Ingles_General_B1_1_07/ob08/) |
+| ob08 | 5800 | omitido |
 | ob09 | 5801 | [abrir](https://velamds.github.io/Ingles_General_B1_1_07/ob09/) |
 | ob10 | 5802 | [abrir](https://velamds.github.io/Ingles_General_B1_1_07/ob10/) |
 | ob11 | 5803 | [abrir](https://velamds.github.io/Ingles_General_B1_1_07/ob11/) |
